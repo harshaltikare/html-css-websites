@@ -21,7 +21,7 @@ To explore these projects and run them on your local machine, you can follow the
 1. **Clone the repository** to your local environment by running this command in your terminal:
 
    ```bash
-   git clone https://github.com/your-username/web-development-projects.git
+   git clone https://github.com/harshaltikare/web-development-projects.git
    ```
 
 2. **Navigate to the project folder** you wish to explore:
